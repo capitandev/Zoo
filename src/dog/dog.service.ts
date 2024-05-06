@@ -10,6 +10,7 @@ export class DogService {
     return 'My name is REX!';
   }
 
+  
   public modifyDetail(): string {
     return 'Successfully modified!';
   }
